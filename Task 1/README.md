@@ -177,6 +177,11 @@ print("The total is:", total)
 
 
 
+<br>
+<br>
+<br>
+
+
 
 ### **Problem 1: Find the Second Maximum Number**
 
